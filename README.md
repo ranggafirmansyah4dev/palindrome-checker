@@ -13,7 +13,7 @@ Features:
 How to Run:
 
 1. Clone this repository:
-git clone https://github.com/ranggafirmansyah4dev/palindromechecker.git
+git clone https://github.com/ranggafirmansyah4dev/palindrome-checker.git
 
 2. Open the index.html file in your browser.
 
